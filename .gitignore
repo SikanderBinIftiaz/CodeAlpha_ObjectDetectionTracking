@@ -5,15 +5,23 @@ __pycache__/
 # Virtual Environment
 venv/
 
-# Output files
-outputs/
-
-# YOLO model files (optional)
-*.pt
-
 # VS Code
 .vscode/
 
+# Outputs
+outputs/
+
+# Videos
+videos/
+
+# YOLO models
+*.pt
+
+# Large media
+*.mp4
+*.avi
+*.mov
+
 # OS files
-.DS_Store
 Thumbs.db
+.DS_Store
